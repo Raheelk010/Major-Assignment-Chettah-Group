@@ -1,7 +1,7 @@
-# customers.py
+
 
 customers = {}
-
+# this is customer.py file
 def add_customer():
     cust_id = input("Enter Customer ID: ")
     name = input("Customer Name: ")
