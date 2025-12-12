@@ -16,3 +16,4 @@ def view_suppliers():
     for sid, info in suppliers.items():
         print(f"{sid} | {info['name']} | {info['contact']}")
     print()
+#

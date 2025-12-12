@@ -1,7 +1,7 @@
 #updated by shakh qasim sabir
 
 from inventory import inventory
-
+#
 sales_records = []
 
 def make_sale():
