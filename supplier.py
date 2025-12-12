@@ -1,4 +1,4 @@
-# suppliers.py
+# shakh qasim 
 
 suppliers = {}
 
@@ -12,7 +12,7 @@ def add_supplier():
 
 
 def view_suppliers():
-    print("\n---- Supplier List ----")
+    print("\n---- Supplier List ----") 
     for sid, info in suppliers.items():
         print(f"{sid} | {info['name']} | {info['contact']}")
     print()

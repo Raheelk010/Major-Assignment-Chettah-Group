@@ -1,4 +1,4 @@
-# sales.py
+#updated by shakh qasim sabir
 
 from inventory import inventory
 
